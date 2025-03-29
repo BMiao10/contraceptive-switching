@@ -1,0 +1,597 @@
+,medicationname,medicationgenericname,medicationtherapeuticclass,medicationpharmaceuticalclass,medicationpharmaceuticalsubclass,order_count
+25577,ETONOGESTREL-ETHINYL ESTRADIOL VAGINAL,etonogestrel-ethinyl estradiol vaginal,CONTRACEPTIVES,"CONTRACEPTIVES, INTRAVAGINAL, SYSTEMIC","Contraceptives - Intravaginal, Systemic - Estrogen and Progestin Comb.",1
+16362,ANNOVERA VAGINAL,segesterone acetate-ethinyl estradiol vaginal,CONTRACEPTIVES,"CONTRACEPTIVES, INTRAVAGINAL, SYSTEMIC","Contraceptives - Intravaginal, Systemic - Estrogen and Progestin Comb.",3
+12572,SEGESTERONE ACET 0.15 MG-ETHINYL ESTRADIOL 0.013 MG/24 HR VAGINAL RING,segesterone acet 0.15 mg-ethinyl estradioL 0.013 mg/24 hr vaginal ring,CONTRACEPTIVES,"CONTRACEPTIVES, INTRAVAGINAL, SYSTEMIC","Contraceptives - Intravaginal, Systemic - Estrogen and Progestin Comb.",20
+5419,ANNOVERA 0.15 MG-0.013 MG/24 HR VAGINAL RING,segesterone acet 0.15 mg-ethinyl estradioL 0.013 mg/24 hr vaginal ring,CONTRACEPTIVES,"CONTRACEPTIVES, INTRAVAGINAL, SYSTEMIC","Contraceptives - Intravaginal, Systemic - Estrogen and Progestin Comb.",85
+12086,NUVARING VAGINAL,etonogestrel-ethinyl estradiol vaginal,CONTRACEPTIVES,"CONTRACEPTIVES, INTRAVAGINAL, SYSTEMIC","Contraceptives - Intravaginal, Systemic - Estrogen and Progestin Comb.",124
+1624,ELURYNG 0.12 MG-0.015 MG/24 HR VAGINAL RING,etonogestreL 0.12 mg-ethinyl estradioL 0.015 mg/24 hr vaginal ring,CONTRACEPTIVES,"CONTRACEPTIVES, INTRAVAGINAL, SYSTEMIC","Contraceptives - Intravaginal, Systemic - Estrogen and Progestin Comb.",133
+3506,NUVARING 0.12 MG-0.015 MG/24 HR VAGINAL,etonogestreL 0.12 mg-ethinyl estradioL 0.015 mg/24 hr vaginal ring,CONTRACEPTIVES,"CONTRACEPTIVES, INTRAVAGINAL, SYSTEMIC","Contraceptives - Intravaginal, Systemic - Estrogen and Progestin Comb.",2063
+1786,ETONOGESTREL 0.12 MG-ETHINYL ESTRADIOL 0.015 MG/24 HR VAGINAL RING,etonogestreL 0.12 mg-ethinyl estradioL 0.015 mg/24 hr vaginal ring,CONTRACEPTIVES,"CONTRACEPTIVES, INTRAVAGINAL, SYSTEMIC","Contraceptives - Intravaginal, Systemic - Estrogen and Progestin Comb.",10659
+6122,ETONOGESTREL SUBDERMAL,etonogestrel subdermal,CONTRACEPTIVES,"CONTRACEPTIVES,IMPLANTABLE",Contraceptive Implant - Progestin,6
+17777,LEVONORGESTREL IMPLANT,levonorgestrel implant,CONTRACEPTIVES,"CONTRACEPTIVES,IMPLANTABLE",Contraceptive Implant - Progestin,8
+13916,IMPLANON SUBDERMAL,etonogestrel subdermal,CONTRACEPTIVES,"CONTRACEPTIVES,IMPLANTABLE",Contraceptive Implant - Progestin,135
+3399,NEXPLANON 68 MG SUBDERMAL IMPLANT,etonogestreL 68 mg subdermal implant,CONTRACEPTIVES,"CONTRACEPTIVES,IMPLANTABLE",Contraceptive Implant - Progestin,379
+3400,NEXPLANON SUBDERMAL,etonogestrel subdermal,CONTRACEPTIVES,"CONTRACEPTIVES,IMPLANTABLE",Contraceptive Implant - Progestin,408
+1787,ETONOGESTREL 68 MG SUBDERMAL IMPLANT,etonogestreL 68 mg subdermal implant,CONTRACEPTIVES,"CONTRACEPTIVES,IMPLANTABLE",Contraceptive Implant - Progestin,4203
+32670,MEDROXYPROGESTERONE SUBCUT,medroxyprogesterone subcutaneous,CONTRACEPTIVES,"CONTRACEPTIVES,INJECTABLE",Contraceptive Injectable - Progestin,2
+38677,DEPO-PROVERA 150 MG/ML INTRAMUSCULAR SYRINGE,medroxyPROGESTERone 150 mg/mL intramuscular syringe,CONTRACEPTIVES,"CONTRACEPTIVES,INJECTABLE",Contraceptive Injectable - Progestin,2
+28175,DEPO-SUBQ PROVERA 104 SUBCUT,medroxyprogesterone subcutaneous,CONTRACEPTIVES,"CONTRACEPTIVES,INJECTABLE",Contraceptive Injectable - Progestin,4
+23317,DEPO-PROVERA 150 MG/ML INTRAMUSCULAR SUSPENSION,medroxyPROGESTERone 150 mg/mL intramuscular suspension,CONTRACEPTIVES,"CONTRACEPTIVES,INJECTABLE",Contraceptive Injectable - Progestin,5
+5903,DEPO-SUBQ PROVERA 104 104 MG/0.65 ML SUBCUTANEOUS SYRINGE,medroxyPROGESTERone 104 mg/0.65 mL subcutaneous syringe,CONTRACEPTIVES,"CONTRACEPTIVES,INJECTABLE",Contraceptive Injectable - Progestin,31
+9583,MEDROXYPROGESTERONE 104 MG/0.65 ML SUBCUTANEOUS SYRINGE,medroxyPROGESTERone 104 mg/0.65 mL subcutaneous syringe,CONTRACEPTIVES,"CONTRACEPTIVES,INJECTABLE",Contraceptive Injectable - Progestin,108
+6689,MEDROXYPROGESTERONE 150 MG/ML INTRAMUSCULAR SYRINGE,medroxyPROGESTERone 150 mg/mL intramuscular syringe,CONTRACEPTIVES,"CONTRACEPTIVES,INJECTABLE",Contraceptive Injectable - Progestin,2085
+3014,MEDROXYPROGESTERONE 150 MG/ML INTRAMUSCULAR SUSPENSION,medroxyPROGESTERone 150 mg/mL intramuscular suspension,CONTRACEPTIVES,"CONTRACEPTIVES,INJECTABLE",Contraceptive Injectable - Progestin,5843
+35412,RIVELSA ORAL,levonorgestrel/ethinyl estradiol and ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Quadraphasic,1
+35612,CHATEAL (28) 0.15 MG-0.03 MG TABLET,levonorgestreL 0.15 mg-ethinyl estradiol 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+35280,ETHYNODIOL DIAC-ETH ESTRADIOL ORAL,ethynodiol diacetate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+35238,BEKYREE (28) ORAL,desogestrel-ethinyl estradiol/ethiny estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,1
+11617,JENCYCLA ORAL,norethindrone (contraceptive) oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,1
+36015,LILLOW ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+35908,SHAROBEL ORAL,norethindrone (contraceptive) oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,1
+36186,CYRED 0.15 MG-0.03 MG TABLET,desogestreL 0.15 mg-ethinyl estradioL 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+36236,SETLAKIN ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+36149,NOR-Q-D 0.35 MG TABLET,norethindrone (contraceptive) 0.35 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,1
+33807,RAJANI (28) 3 MG-0.02 MG-0.451 MG (24)/0.451 MG (4) TABLET,drospiren-e.estrad-l.mefoL 3 mg-0.02 mg-0.451 mg(24)/0.451 mg(4)tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+33621,DASETTA 7/7/7 (28) ORAL,norethindrone-ethinyl estradiol triphasic oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,1
+32653,LEVONORGEST-E ESTRAD-PREG TEST MISC,levonorgestrel-ethinyl estradiol-pregnancy test,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Emergency Contraceptive Combinations - Estrogen and Progestin Comb.,1
+33045,DESOG-E.ESTRADIOL/E.ESTRADIOL ORAL,desogestrel-ethinyl estradiol/ethiny estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,1
+34776,TARINA FE ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+13378,AUBRA EQ ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+34650,LARIN 1.5/30 (21) ORAL,norethindrone acetate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+40077,LEVONORGESTREL 0.25 MG-ETHINYL ESTRADIOL 0.05 MG-PREGNANCY TEST KIT,levonorgestreL 0.25 mg-ethinyl estradiol 0.05 mg-pregnancy test kit,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Emergency Contraceptive Combinations - Estrogen and Progestin Comb.,1
+40073,L NORGEST&E ESTRADIOL-E ESTRAD ORAL,levonorgestrel/ethinyl estradiol and ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,1
+39581,DEMULEN 1/50 (28) 1 MG-50 MCG TABLET,ethynodiol diacetate-ethinyl estradioL 1 mg-50 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+40291,CYCLESSA (28) ORAL,desogestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,1
+40341,LYBREL ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+37350,KIMIDESS (28) 0.15 MG-0.02 MG (21)/0.01 MG (5) TABLET,desogestreL-e.estradioL 0.15 mg-0.02 mg(21)/e.estrad 0.01 mg(5) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,1
+39003,NORGESTIMATE-ETHINYL ESTRADIOL 0.18 MG/0.215MG/0.25MG-35 MCG(21)TABLET,norgestimate-ethinyl estradioL 0.18 mg/0.215mg/0.25mg-35 mcg(21)tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,1
+38402,DEMULEN 1/50 (28) ORAL,ethynodiol diacetate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+38584,CYCLESSA ORAL,desogestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,1
+26004,DROSPIRENONE-ESTETROL ORAL,drospirenone-estetrol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+20062,HAILEY ORAL,norethindrone acetate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+20505,FINZALA ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+23258,AUROVELA 24 FE ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+23154,VYLIBRA ORAL,norgestimate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+25437,ECONTRA ONE-STEP 1.5 MG TABLET,levonorgestreL 1.5 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Emergency Contraceptives,1
+25647,AUBRA 0.1 MG-20 MCG TABLET,levonorgestreL-ethinyl estradioL 0.1 mg-20 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+25629,ZOVIA 1-35 (28) ORAL,ethynodiol diacetate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+25109,JAIMIESS ORAL,levonorgestrel/ethinyl estradiol and ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,1
+22673,NOR-Q-D ORAL,norethindrone (contraceptive) oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,1
+31087,"QUARTETTE 0.15 MG-20 MCG/0.15 MG-25 MCG TABLETS,3 MONTH DOSE PACK","L norgest/EE 0.15-0.02mg/0.15-0.025mg/0.15-0.03mg/EE 0.01 mg  tabs,3mo",CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Quadraphasic,1
+31152,LYZA 0.35 MG TABLET,norethindrone (contraceptive) 0.35 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,1
+31210,TULANA 0.35 MG TABLET,norethindrone (contraceptive) 0.35 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,1
+17538,AUROVELA 1/20 (21) 1 MG-20 MCG TABLET,norethindrone acetate 1 mg-ethinyl estradioL 20 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+30585,HAILEY FE 1/20 (28) ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+30576,CYRED EQ 0.15 MG-0.03 MG TABLET,desogestreL 0.15 mg-ethinyl estradioL 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+30596,PORTIA 28 ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+32277,TULANA ORAL,norethindrone (contraceptive) oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,1
+32613,HAILEY FE 1.5/30 (28) ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+31965,PHILITH ORAL,norethindrone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+28971,ARANELLE (28) ORAL,norethindrone-ethinyl estradiol triphasic oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,1
+29700,TRI FEMYNOR ORAL,norgestimate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,1
+18196,GEMMILY ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+48506,NORETHINDRONE-ETHINYL ESTRADIOL BIPHASIC 0.5-35/1-35 MG-MCG (7) TABLET,norethindrone-ethinyl estradioL biphasic 0.5-35/1-35 mg-mcg (7) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,1
+48546,VELIVET ORAL,desogestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,1
+51486,ALESSE (28) 0.1 MG-20 MCG TABLET,levonorgestreL-ethinyl estradioL 0.1 mg-20 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+54495,NYLIA 7/7/7 (28) 0.5/0.75/1 MG-35 MCG TABLET,norethindrone-e.estradiol triphasic 0.5 mg/0.75 mg/1 mg-35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,1
+50250,OVCON-50 (28) ORAL,norethindrone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+49416,NORGESTREL 0.075 MG TABLET,norgestrel 0.075 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,1
+49367,BREVICON (28) ORAL,norethindrone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+41067,TRI-NORINYL (28) ORAL,norethindrone-ethinyl estradiol triphasic oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,1
+41017,NORINYL 1/35 (28) 1 MG-35 MCG TABLET,norethindrone 1 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+47285,CAZIANT ORAL,desogestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,1
+51634,DEMULEN 1/50 (21) ORAL,ethynodiol diacetate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1
+14182,NORETHIN-E.ESTRADIOL TRIPHASIC ORAL,norethindrone-ethinyl estradiol triphasic oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,2
+31351,ENPRESSE ORAL,l.norgest-eth.estradiol triphasic oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,2
+18829,JASMIEL (28) 3 MG-0.02 MG TABLET,drospirenone 3 mg-ethinyl estradioL 0.02 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,2
+31885,JULEBER ORAL,desogestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,2
+16105,VYLIBRA 0.25 MG-35 MCG TABLET,norgestimate 0.25 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,2
+28751,AUROVELA FE 1.5/30 (28) ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,2
+28805,LO-OVRAL (8) ORAL,norgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,2
+32844,WYMZYA FE ORAL,norethindrone-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,2
+32827,ULIPRISTAL ORAL,ulipristal oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Emergency Contraceptives,2
+20285,TRI-VYLIBRA (28) 0.18 MG(7)/0.215 MG(7)/0.25 MG(7)-35 MCG TABLET,norgestimate-ethinyl estradioL 0.18 mg/0.215mg/0.25mg-35 mcg(28)tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,2
+32628,INTROVALE ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,2
+30118,MELODETTA 24 FE ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,2
+27570,VYFEMLA (28) ORAL,norethindrone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,2
+39952,MODICON (28) 0.5 MG-35 MCG TABLET,norethindrone 0.5 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,2
+10457,PHILITH 0.4 MG-35 MCG TABLET,norethindrone 0.4 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,2
+11226,NYLIA 1/35 (28) ORAL,norethindrone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,2
+22170,NORDETTE (28) ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,2
+23924,NORETHIN-ETH ESTRAD BIPHASIC ORAL,norethindrone-ethinyl estradiol biphasic oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,2
+39551,NORDETTE-28 ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,2
+22995,LARISSIA ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,2
+25031,TYBLUME 0.1 MG-20 MCG CHEWABLE TABLET,levonorgestreL 0.1 mg-ethinyl estradiol 20 mcg chewable tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,2
+21524,ORTHO-NOVUM 1/50 (28) ORAL,norethindrone-mestranol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,2
+35387,PIMTREA (28) ORAL,desogestrel-ethinyl estradiol/ethiny estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,2
+21035,AUROVELA FE 1-20 (28) ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,2
+34311,GILDESS FE 1.5/30 (28) ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,2
+40744,TILIA FE ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,2
+21082,DROSPIRENONE-E.ESTRADIOL-LM.FA ORAL,drospirenone-ethinyl estradiol-levomefolate oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,2
+21131,LARIN FE 1.5/30 (28) ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,2
+36082,WERA (28) ORAL,norethindrone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,2
+40247,"SEASONALE (91) 0.15 MG-30 MCG TABLETS,3 MONTH DOSE PACK","levonorgestreL 0.15 mg-ethinyl estradiol 30 mcg tablets,3 mos pack(91)",CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,2
+35652,KURVELO ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,2
+25987,CHATEAL (28) ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,2
+29267,ESTROSTEP FE-28 ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,3
+18832,KAITLIB FE ORAL,norethindrone-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,3
+29283,NOR-QD ORAL,norethindrone (contraceptive) oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,3
+20845,TARINA 24 FE 1 MG-20 MCG (24)/75 MG (4) TABLET,norethindrone 1 mg-ethinyl estradioL 20 mcg (24)-iron 75 mg (4) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,3
+18900,MELODETTA 24 FE 1 MG-20 MCG (24)/75 MG (4) CHEWABLE TABLET,norethindrone 1 mg-e. estradioL 20 mcg (24)-iron 75 mg (4) chew tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,3
+28231,LAYOLIS FE ORAL,norethindrone-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,3
+34786,TRI-LEGEST FE ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,3
+33036,CYCLAFEM 7/7/7 (28) ORAL,norethindrone-ethinyl estradiol triphasic oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,3
+34032,ELINEST ORAL,norgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,3
+39585,LO-OVRAL (28) 0.3 MG-30 MCG TABLET,norgestrel 0.3 mg-ethinyl estradioL 30 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,3
+39190,NECON 1/50 (28) ORAL,norethindrone-mestranol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,3
+40690,ORTHO-CEPT (28) 0.15 MG-0.03 MG TABLET,desogestreL 0.15 mg-ethinyl estradioL 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,3
+45458,ZEOSA ORAL,norethindrone-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,3
+39875,TRI-LEVLEN (28) ORAL,l.norgest-eth.estradiol triphasic oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,3
+37644,NORDETTE (28) 0.15 MG-0.03 MG TABLET,levonorgestreL 0.15 mg-ethinyl estradiol 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,3
+37667,PLAN B ONE-STEP ORAL,levonorgestrel oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Emergency Contraceptives,3
+10216,FINZALA 1 MG-20 MCG (24)/75 MG (4) CHEWABLE TABLET,norethindrone 1 mg-e. estradioL 20 mcg (24)-iron 75 mg (4) chew tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,3
+31895,LEENA 28 ORAL,norethindrone-ethinyl estradiol triphasic oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,3
+17666,ELLA ORAL,ulipristal oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Emergency Contraceptives,3
+16826,MERZEE 1 MG-20 MCG (24)/75 MG (4) CAPSULE,norethindrone 1 mg-ethin. estradioL 20 mcg (24)-iron 75 mg (4) capsule,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,3
+31395,GILDESS 1.5/30 (21) ORAL,norethindrone acetate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,3
+16052,TRI-VYLIBRA ORAL,norgestimate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,3
+32423,NORETHINDRONE-MESTRANOL ORAL,norethindrone-mestranol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,3
+15633,GEMMILY 1 MG-20 MCG (24)/75 MG (4) CAPSULE,norethindrone 1 mg-ethin. estradioL 20 mcg (24)-iron 75 mg (4) capsule,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,3
+30573,CAMILA ORAL,norethindrone (contraceptive) oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,4
+23396,LEVONEST (28) ORAL,l.norgest-eth.estradiol triphasic oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,4
+29027,NORETHINDRONE-E.ESTRADIOL-IRON ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,4
+8680,INCASSIA 0.35 MG TABLET,norethindrone (contraceptive) 0.35 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,4
+22994,LARIN 1/20 (21) ORAL,norethindrone acetate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,4
+38491,VESTURA ORAL,drospirenone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,4
+18014,TRI FEMYNOR (28) 0.18 MG(7)/0.215 MG(7)/0.25 MG(7)-35 MCG TABLET,norgestimate-ethinyl estradioL 0.18 mg/0.215mg/0.25mg-35 mcg(28)tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,4
+18792,HAILEY 24 FE ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,4
+26934,LEVONORGEST-ETH.ESTRADIOL-IRON ORAL,levonorgestrel-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,4
+19658,SIMPESSE ORAL,levonorgestrel/ethinyl estradiol and ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,4
+14170,NEXTSTELLIS 3 MG-14.2 MG (28) TABLET,drospirenone 3 mg-estetrol 14.2 mg (28) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,4
+31835,GILDESS FE 1/20 (28) ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,4
+13526,CHATEAL EQ (28) 0.15 MG-0.03 MG TABLET,levonorgestreL 0.15 mg-ethinyl estradiol 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,4
+33577,BALZIVA (28) ORAL,norethindrone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,4
+33292,ZENCHENT (28) ORAL,norethindrone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,4
+35821,"NORETHINDRONE 1 MG-E.ESTRADIOL 10 MCG(24)-IRON 10 MG(2)CHEW TAB,TABLET","norethindrone 1 mg-e.estradioL 10 mcg(24)-iron 10 mg(2)chew tab,tablet",CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,4
+33471,CAZIANT (28) ORAL,desogestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,5
+29284,NORDETTE ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",*Unspecified,5
+31122,ZENCHENT FE ORAL,norethindrone-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,5
+31056,NORTREL 1/35 (21) ORAL,norethindrone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,5
+25882,TRI-LO-MARZIA ORAL,norgestimate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,5
+39813,OVCON-35 (28) ORAL,norethindrone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,5
+35128,NORINYL 1+35 (28) ORAL,norethindrone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,5
+31486,MYZILRA ORAL,l.norgest-eth.estradiol triphasic oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,5
+34338,MIRCETTE (28) ORAL,desogestrel-ethinyl estradiol/ethiny estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,5
+37653,ORTHO-NOVUM 7/7/7 (21) ORAL,norethindrone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,5
+31989,QUARTETTE ORAL,levonorgestrel/ethinyl estradiol and ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Quadraphasic,5
+14006,LEVONORGESTREL 0.1 MG-ETHINYL ESTRADIOL 20 MCG CHEWABLE TABLET,levonorgestreL 0.1 mg-ethinyl estradiol 20 mcg chewable tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,5
+20986,TARINA FE 1/20 (28) ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,5
+22838,AUBRA EQ 0.1 MG-20 MCG TABLET,levonorgestreL-ethinyl estradioL 0.1 mg-20 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,5
+19732,CHARLOTTE 24 FE 1 MG-20 MCG (24)/75 MG (4) CHEWABLE TABLET,norethindrone 1 mg-e. estradioL 20 mcg (24)-iron 75 mg (4) chew tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,5
+39770,LOSEASONIQUE ORAL,levonorgestrel/ethinyl estradiol and ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,6
+31834,GILDESS 24 FE ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,6
+18292,NORGESTREL-ETHINYL ESTRADIOL ORAL,norgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,6
+19753,LYLEQ 0.35 MG TABLET,norethindrone (contraceptive) 0.35 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,6
+19117,TRI-LO-ESTARYLLA ORAL,norgestimate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,6
+19538,LARIN FE 1/20 (28) ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,6
+16561,DROSPIRENONE (CONTRACEPTIVE) ORAL,drospirenone (contraceptive) oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,6
+24505,MONO-LINYAH ORAL,norgestimate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,6
+25319,NORLYDA ORAL,norethindrone (contraceptive) oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,6
+11106,LEVONORG-ETH ESTRAD TRIPHASIC ORAL,l.norgest-eth.estradiol triphasic oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,6
+33761,OGESTREL (28) ORAL,norgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,6
+22223,TRIPHASIL-28 ORAL,l.norgest-eth.estradiol triphasic oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,6
+34477,EMOQUETTE ORAL,desogestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,6
+24958,LESSINA ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,7
+30910,VELIVET TRIPHASIC REGIMEN (28) ORAL,desogestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,7
+28966,ALTAVERA (28) ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,7
+30819,LYZA ORAL,norethindrone (contraceptive) oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,7
+18339,SLYND ORAL,drospirenone (contraceptive) oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,7
+6925,NORETH-ETHINYL ESTRADIOL-IRON ORAL,norethindrone-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,7
+5997,DOLISHALE 90 MCG-20 MCG (28) TABLET,levonorgestreL-ethinyl estradioL 90 mcg-20 mcg (28) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,7
+13379,AUROVELA 1/20 (21) ORAL,norethindrone acetate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,7
+22337,NECON 7/7/7 (28) ORAL,norethindrone-ethinyl estradiol triphasic oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,7
+22326,LO MINASTRIN FE ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,7
+20562,LARIN 24 FE ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,7
+31796,DASETTA 1/35 (28) ORAL,norethindrone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,7
+12996,TRI-ESTARYLLA ORAL,norgestimate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,7
+37605,LORYNA ORAL,drospirenone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,7
+14592,VIENVA ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,7
+39403,NEXT CHOICE 0.75 MG TABLET,levonorgestreL 0.75 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Emergency Contraceptives,8
+32076,AMETHYST ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,8
+33138,LO-OVRAL (21) ORAL,norgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,8
+15912,PIRMELLA ORAL,norethindrone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,8
+17791,LOESTRIN 1/20 (21) 1 MG-20 MCG TABLET,norethindrone acetate 1 mg-ethinyl estradioL 20 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,8
+36565,BRIELLYN 0.4 MG-35 MCG TABLET,norethindrone 0.4 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,8
+30533,NORTREL 1/35 (28) ORAL,norethindrone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,8
+27786,NORGESTREL ORAL,norgestrel oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,8
+20100,KELNOR 1/35 (28) ORAL,ethynodiol diacetate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,8
+27471,FEMYNOR ORAL,norgestimate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,8
+28265,ORTHO MICRONOR ORAL,norethindrone (contraceptive) oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,8
+31942,NORETHIN-ETH ESTRAD BIPHASIC 0.5 MG-35 MCG(10)/1 MG-35 MCG(11) TABLET,norethin-eth estrad biphasic 0.5 mg-35 mcg(10)/1 mg-35 mcg(11) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,9
+33494,JOLESSA ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,9
+14979,CAMRESE LO ORAL,levonorgestrel/ethinyl estradiol and ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,9
+17859,MY CHOICE 1.5 MG TABLET,levonorgestreL 1.5 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Emergency Contraceptives,9
+21982,SYEDA ORAL,drospirenone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,9
+15843,NORTREL 7/7/7 (28) ORAL,norethindrone-ethinyl estradiol triphasic oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,9
+21476,LEVONEST (28) 50-30 (6)/75-40(5)/125-30(10) TABLET,l.norgest-eth.estradiol triphasic 50-30 (6)/75-40(5)/125-30(10) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,9
+11888,ALYACEN 7/7/7 (28) 0.5 MG/0.75 MG/1 MG-35 MCG TABLET,norethindrone-e.estradiol triphasic 0.5 mg/0.75 mg/1 mg-35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,9
+23047,NIKKI (28) ORAL,drospirenone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,9
+33748,NECON 0.5/35 (28) ORAL,norethindrone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,9
+20581,LOESTRIN 1.5/30 (21) 1.5 MG-30 MCG TABLET,norethindrone acetate 1.5 mg-ethinyl estradioL 30 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,9
+30994,GILDESS 1/20 (21) ORAL,norethindrone acetate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,10
+32200,NATAZIA ORAL,estradiol-dienogest oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Quadraphasic,10
+30192,SAFYRAL ORAL,drospirenone-ethinyl estradiol-levomefolate oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,10
+8823,MICROGESTIN 24 FE 1 MG-20 MCG (24)/75 MG (4) TABLET,norethindrone 1 mg-ethinyl estradioL 20 mcg (24)-iron 75 mg (4) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,10
+27852,LEVORA 0.15/30 (28) 0.15 MG-0.03 MG TABLET,levonorgestreL 0.15 mg-ethinyl estradiol 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,10
+22661,MY WAY 1.5 MG TABLET,levonorgestreL 1.5 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Emergency Contraceptives,10
+13953,"JAIMIESS 0.15 MG-30 MCG (84)/10 MCG(7) TABLETS,3 MONTH DOSE PACK","L norgest/E estradiol-E estrad 0.15 mg-30 mcg (84)/10 mcg(7) tabs,3mos",CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,10
+14028,LOESTRIN FE 1/20 (28-DAY) ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,10
+33139,LO-OVRAL (28) ORAL,norgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,11
+21816,FALMINA (28) ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,11
+25902,AUBRA ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,11
+22011,ARANELLE (28) 0.5 MG/1 MG/0.5 MG-35 MCG TABLET,norethindrone-ethinyl estradioL triphasic 0.5/1/0.5 mg-35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,11
+18428,AFTERA 1.5 MG TABLET,levonorgestreL 1.5 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Emergency Contraceptives,11
+18227,ISIBLOOM ORAL,desogestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,11
+30056,FEMCON FE ORAL,norethindrone-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,11
+29916,WYMZYA FE 0.4 MG-35 MCG (21)/75 MG (7) CHEWABLE TABLET,norethin-ethinyl estradioL-iron 0.4 mg-35 mcg(21)/75 mg(7) chew tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,11
+20172,NORTREL 0.5/35 (28) ORAL,norethindrone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,11
+31836,GILDESS FE ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,12
+13652,DASETTA 7/7/7 (28) 0.5 MG(7)/0.75 MG(7)/1 MG(7)-35 MCG TABLET,norethindrone-e.estradiol triphasic 0.5 mg/0.75 mg/1 mg-35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,12
+33015,CHATEAL ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,12
+2895,LOESTRIN FE 1.5/30 (28-DAY) 1.5 MG-30 MCG (21)/75 MG (7) TABLET,norethindrone 1.5 mg-ethinyl estradioL 30 mcg(21)/iron 75 mg(7) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,12
+13973,"L NORGEST/EE 0.15-0.02MG/0.15-0.025MG/0.15-0.03MG/EE 0.01 MG  TABS,3MO","L norgest/EE 0.15-0.02mg/0.15-0.025mg/0.15-0.03mg/EE 0.01 mg  tabs,3mo",CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Quadraphasic,12
+18245,"LOJAIMIESS 0.1 MG-20 MCG (84)/10 MCG (7) TABLETS,3 MONTH DOSE PACK","L norgest/E estradiol-E estrad 0.1 mg-20 mcg (84)/10 mcg (7) tabs,3mos",CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,12
+23602,SAFYRAL 3 MG-0.03 MG-0.451 MG (21)/0.451 MG (7) TABLET,drospiren-e.estrad-l.mefoL 3 mg-0.03 mg-0.451 mg(21)/0.451 mg(7)tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,12
+32728,ORTHO-NOVUM 7/7/7 (28) ORAL,norethindrone-ethinyl estradiol triphasic oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,13
+35725,ZENCHENT FE 0.4 MG-35 MCG (21)/75 MG (7) CHEWABLE TABLET,norethin-ethinyl estradioL-iron 0.4 mg-35 mcg(21)/75 mg(7) chew tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,13
+19499,HEATHER ORAL,norethindrone (contraceptive) oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,13
+9215,ZOVIA 1-35 (28) 1 MG-35 MCG TABLET,ethynodiol diacetate-ethinyl estradioL 1 mg-35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,13
+25576,ESTRADIOL VALERATE-DIENOGEST ORAL,estradiol-dienogest oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Quadraphasic,13
+32882,FEMCON FE 0.4 MG-35 MCG (21)/75 MG (7) CHEWABLE TABLET,norethin-ethinyl estradioL-iron 0.4 mg-35 mcg(21)/75 mg(7) chew tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,14
+23394,LEVLEN (28) ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,14
+5263,ZUMANDIMINE (28) 3 MG-0.03 MG TABLET,drospirenone 3 mg-ethinyl estradioL 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,14
+21523,ORTHO-NOVUM 1/35 (28) ORAL,norethindrone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,14
+15727,KURVELO (28) ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,14
+21893,MIBELAS 24 FE ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,14
+19222,"LOSEASONIQUE 0.1 MG-20 MCG (84)/10 MCG (7) TABLETS,3 MONTH DOSE PACK","L norgest/E estradiol-E estrad 0.1 mg-20 mcg (84)/10 mcg (7) tabs,3mos",CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,14
+25137,ORSYTHIA ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,15
+11076,KAITLIB FE 0.8 MG-25 MCG (24)/75 MG (4) CHEWABLE TABLET,norethin-ethinyl estradioL-iron 0.8 mg-25 mcg(24)/75 mg(4) chew tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,15
+23524,TAYTULLA ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,15
+2210,HAILEY FE 1/20 (28) 1 MG-20 MCG (21)/75 MG (7) TABLET,norethindrone 1 mg-ethinyl estradioL 20 mcg (21)-iron 75 mg (7) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,15
+30911,VESTURA (28) ORAL,drospirenone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,15
+31984,PREVIFEM ORAL,norgestimate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,15
+32026,TRI-PREVIFEM (28) ORAL,norgestimate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,15
+18015,TRI-LINYAH ORAL,norgestimate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,15
+10740,ASHLYNA ORAL,levonorgestrel/ethinyl estradiol and ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,15
+18565,BALCOLTRA 0.1 MG-0.02 MG (21)/IRON (7) TABLET,levonorgestreL 0.1 mg-ethinyl estradiol 0.02 mg (21)/iron (7) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,16
+28271,PLAN B ORAL,levonorgestrel oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Emergency Contraceptives,16
+36828,ORTHO-CEPT (28) ORAL,desogestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,16
+9531,JUNEL FE 1.5/30 (28) ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,16
+37955,LOESTRIN FE 1.5/30 (28) ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,16
+2209,HAILEY FE 1.5/30 (28) 1.5 MG-30 MCG (21)/75 MG (7) TABLET,norethindrone 1.5 mg-ethinyl estradioL 30 mcg(21)/iron 75 mg(7) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,17
+16172,LILLOW (28) 0.15 MG-0.03 MG TABLET,levonorgestreL 0.15 mg-ethinyl estradiol 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,17
+13108,MARLISSA (28) ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,17
+17663,DROSPIRENONE-ETHINYL ESTRADIOL ORAL,drospirenone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,18
+29650,NORETHINDRONE-ETHIN ESTRADIOL ORAL,norethindrone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,18
+15175,OGESTREL (28) 0.5 MG-50 MCG TABLET,norgestrel 0.5 mg-ethinyl estradioL 50 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,18
+11969,DAYSEE ORAL,levonorgestrel/ethinyl estradiol and ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,18
+9549,LAYOLIS FE 0.8 MG-25 MCG (24)/75 MG (4) CHEWABLE TABLET,norethin-ethinyl estradioL-iron 0.8 mg-25 mcg(24)/75 mg(4) chew tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,18
+12847,LARIN 1.5/30 (21) 1.5 MG-30 MCG TABLET,norethindrone acetate 1.5 mg-ethinyl estradioL 30 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,19
+13956,JUNEL 1.5/30 (21) ORAL,norethindrone acetate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,19
+20488,ERRIN ORAL,norethindrone (contraceptive) oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,19
+29017,MARLISSA ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,19
+16782,LEVONORGESTREL-ETHINYL ESTRAD ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,19
+20569,LEVONORGESTREL 0.1 MG-ETHINYL ESTRADIOL 0.02 MG (21)/IRON (7) TABLET,levonorgestreL 0.1 mg-ethinyl estradiol 0.02 mg (21)/iron (7) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,19
+32705,NECON 1/50 (28) 1 MG-50 MCG TABLET,norethindrone 1 mg-mestranoL 50 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,19
+37194,AZURETTE ORAL,desogestrel-ethinyl estradiol/ethiny estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,20
+29519,AMETHIA LO ORAL,levonorgestrel/ethinyl estradiol and ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,20
+19937,BLISOVI FE 1.5/30 (28) ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,20
+31136,CYCLAFEM 7/7/7 (28) 0.5 MG/0.75 MG/1 MG-35 MCG TABLET,norethindrone-e.estradiol triphasic 0.5 mg/0.75 mg/1 mg-35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,20
+12987,TARINA FE 1-20 EQ (28) 1 MG-20 MCG (21)/75 MG (7) TABLET,norethindrone 1 mg-ethinyl estradioL 20 mcg (21)-iron 75 mg (7) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,20
+29372,KARIVA (28) ORAL,desogestrel-ethinyl estradiol/ethiny estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,20
+22513,DESOGESTREL-ETHINYL ESTRADIOL ORAL,desogestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,21
+31705,ZOVIA 1/50E (28) 1 MG-50 MCG TABLET,ethynodiol diacetate-ethinyl estradioL 1 mg-50 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,21
+2573,JENCYCLA 0.35 MG TABLET,norethindrone (contraceptive) 0.35 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,21
+38620,SEASONALE ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,21
+29622,LOMEDIA 24 FE ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,21
+14772,AUROVELA 1.5/30 (21) 1.5 MG-30 MCG TABLET,norethindrone acetate 1.5 mg-ethinyl estradioL 30 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,21
+32912,NORETHINDRONE 1 MG-MESTRANOL 50 MCG TABLET,norethindrone 1 mg-mestranoL 50 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,21
+20832,ORTHO-NOVUM 1/35 (28) 1 MG-35 MCG TABLET,norethindrone 1 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,22
+20810,ENPRESSE 50-30 (6)/75-40(5)/125-30(10) TABLET,l.norgest-eth.estradiol triphasic 50-30 (6)/75-40(5)/125-30(10) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,22
+21780,CRYSELLE (28) ORAL,norgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,22
+17186,CAMILA 0.35 MG TABLET,norethindrone (contraceptive) 0.35 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,22
+37967,MIRCETTE ORAL,desogestrel-ethinyl estradiol/ethiny estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,23
+18853,LEENA 28 0.5 MG/1 MG/0.5 MG-35 MCG TABLET,norethindrone-ethinyl estradioL triphasic 0.5/1/0.5 mg-35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,23
+31536,PORTIA ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,23
+28570,CYCLAFEM 1/35 (28) ORAL,norethindrone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,23
+33346,MICRONOR (28) ORAL,norethindrone (contraceptive) oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,24
+33520,QUASENSE ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,24
+12054,LO-ZUMANDIMINE (28) 3 MG-0.02 MG TABLET,drospirenone 3 mg-ethinyl estradioL 0.02 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,24
+17459,PIRMELLA 0.5/0.75/1 MG-35 MCG TABLET,norethindrone-e.estradiol triphasic 0.5 mg/0.75 mg/1 mg-35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,24
+32909,MYZILRA 50-30 (6)/75-40(5)/125-30(10) TABLET,l.norgest-eth.estradiol triphasic 50-30 (6)/75-40(5)/125-30(10) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,24
+12044,KELNOR 1-50 (28) 1 MG-50 MCG TABLET,ethynodiol diacetate-ethinyl estradioL 1 mg-50 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,24
+9193,WERA (28) 0.5 MG-35 MCG TABLET,norethindrone 0.5 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,25
+37946,KARIVA ORAL,desogestrel-ethinyl estradiol/ethiny estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,25
+37926,GIANVI ORAL,drospirenone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,25
+15582,ENSKYCE ORAL,desogestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,25
+29953,ZOVIA 1/35E (28) ORAL,ethynodiol diacetate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,26
+32540,DESOGEN ORAL,desogestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,26
+14710,NORETHINDRONE 1 MG-ETHINYL ESTRADIOL 35 MCG (21) TABLET,norethindrone 1 mg-ethinyl estradioL 35 mcg (21) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,26
+14169,NEW DAY 1.5 MG TABLET,levonorgestreL 1.5 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Emergency Contraceptives,26
+30339,ORTHO-NOVUM 7/7/7 (28) 0.5 MG/0.75 MG/1 MG-35 MCG TABLET,norethindrone-e.estradiol triphasic 0.5 mg/0.75 mg/1 mg-35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,26
+24514,NECON 1/35 (28) ORAL,norethindrone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,27
+20852,TRI-PREVIFEM (28) 0.18 MG(7)/0.215 MG(7)/0.25 MG(7)-35 MCG TABLET,norgestimate-ethinyl estradioL 0.18 mg/0.215mg/0.25mg-35 mcg(28)tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,28
+20987,TAYTULLA 1 MG-20 MCG (24)/75 MG (4) CAPSULE,norethindrone 1 mg-ethin. estradioL 20 mcg (24)-iron 75 mg (4) capsule,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,28
+23513,SRONYX ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,28
+9188,VOLNEA (28) 0.15 MG-0.02 MG (21)/0.01 MG (5) TABLET,desogestreL-e.estradioL 0.15 mg-0.02 mg(21)/e.estrad 0.01 mg(5) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,28
+22144,LEVONORGESTREL ORAL,levonorgestrel oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Emergency Contraceptives,28
+25049,GENERESS FE 0.8 MG-25 MCG (24)/75 MG (4) CHEWABLE TABLET,norethin-ethinyl estradioL-iron 0.8 mg-25 mcg(24)/75 mg(4) chew tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,29
+6951,NYLIA 1/35 (28) 1 MG-35 MCG TABLET,norethindrone 1 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,29
+30992,GILDESS 1.5/30 (21) 1.5 MG-30 MCG TABLET,norethindrone acetate 1.5 mg-ethinyl estradioL 30 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,30
+29189,GENERESS FE ORAL,norethindrone-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,30
+11463,VIORELE (28) ORAL,desogestrel-ethinyl estradiol/ethiny estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,30
+33123,JOLIVETTE ORAL,norethindrone (contraceptive) oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,30
+12773,ESTARYLLA ORAL,norgestimate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,30
+27686,AZURETTE (28) ORAL,desogestrel-ethinyl estradiol/ethiny estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,31
+20950,MIBELAS 24 FE 1 MG-20 MCG (24)/75 MG (4) CHEWABLE TABLET,norethindrone 1 mg-e. estradioL 20 mcg (24)-iron 75 mg (4) chew tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,31
+10047,BALZIVA (28) 0.4 MG-35 MCG TABLET,norethindrone 0.4 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,31
+17579,CAMRESE ORAL,levonorgestrel/ethinyl estradiol and ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,31
+21464,JUNEL FE 24 ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,32
+30225,TRINESSA LO ORAL,norgestimate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,32
+11675,PIMTREA (28) 0.15 MG-0.02 MG (21)/0.01 MG (5) TABLET,desogestreL-e.estradioL 0.15 mg-0.02 mg(21)/e.estrad 0.01 mg(5) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,32
+24967,MICROGESTIN 24 FE ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,32
+18360,TRI-LO-SPRINTEC ORAL,norgestimate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,33
+33669,GILDESS ORAL,norethindrone acetate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,34
+12250,BLISOVI FE 1/20 (28) ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,34
+30412,CAZIANT (28) 0.1 MG/0.125 MG/0.15 MG-25 MCG TABLET,desogestreL-ethinyl estradioL 0.1 mg/0.125 mg/0.15 mg-25 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,34
+15842,NORTREL 1/35 (21) 1 MG-35 MCG TABLET,norethindrone 1 mg-ethinyl estradioL 35 mcg (21) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,34
+23804,GIANVI (28) ORAL,drospirenone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,35
+21633,YASMIN (28) ORAL,drospirenone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,35
+29480,LOMEDIA 24 FE 1 MG-20 MCG (24)/75 MG (4) TABLET,norethindrone 1 mg-ethinyl estradioL 20 mcg (24)-iron 75 mg (4) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,36
+12571,"SEASONIQUE 0.15 MG-30 MCG (84)/10 MCG(7) TABLETS,3 MONTH DOSE PACK","L norgest/E estradiol-E estrad 0.15 mg-30 mcg (84)/10 mcg(7) tabs,3mos",CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,36
+35339,LOESTRIN FE 1/20 (28) ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,36
+22430,AMETHIA ORAL,levonorgestrel/ethinyl estradiol and ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,37
+13489,"CAMRESE LO 0.1 MG-20 MCG (84)/10 MCG (7) TABLETS,3 MONTH DOSE PACK","L norgest/E estradiol-E estrad 0.1 mg-20 mcg (84)/10 mcg (7) tabs,3mos",CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,37
+22922,ESTROSTEP FE-28 1-20 (5)/1-30(7)/1MG-35MCG(9) TABLET,norethindrone-eth. estradiol-iron 1-20 (5)/1-30(7)/1mg-35mcg(9) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,38
+12660,ALESSE-28 ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,38
+10594,TRI-ESTARYLLA (28) 0.18 MG(7)/0.215 MG(7)/0.25 MG(7)-35 MCG TABLET,norgestimate-ethinyl estradioL 0.18 mg/0.215mg/0.25mg-35 mcg(28)tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,38
+15114,LORYNA (28) ORAL,drospirenone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,38
+15841,NORGESTIMATE-ETHINYL ESTRADIOL ORAL,norgestimate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,39
+29535,BEYAZ ORAL,drospirenone-ethinyl estradiol-levomefolate oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,40
+3849,PLAN B ONE-STEP 1.5 MG TABLET,levonorgestreL 1.5 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Emergency Contraceptives,40
+27925,"AMETHIA LO 0.1 MG-20 MCG (84)/10 MCG (7) TABLETS,3 MONTH DOSE PACK","L norgest/E estradiol-E estrad 0.1 mg-20 mcg (84)/10 mcg (7) tabs,3mos",CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,41
+31904,LOESTRIN 1.5/30 (21) ORAL,norethindrone acetate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,41
+14848,MILI 0.25 MG-35 MCG TABLET,norgestimate 0.25 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,42
+32383,NEXT CHOICE ONE DOSE 1.5 MG TABLET,levonorgestreL 1.5 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Emergency Contraceptives,43
+13116,NATAZIA 3 MG/2 MG-2 MG/2 MG-3 MG/1 MG TABLET,estradiol-dienogest 3 mg/2 mg-2 mg/2 mg-3 mg/1 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Quadraphasic,43
+27565,TRIVORA (28) ORAL,l.norgest-eth.estradiol triphasic oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,44
+17540,AVIANE ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,45
+8294,ALYACEN 1/35 (28) 1 MG-35 MCG TABLET,norethindrone 1 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,46
+12848,LARIN 1/20 (21) 1 MG-20 MCG TABLET,norethindrone acetate 1 mg-ethinyl estradioL 20 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,46
+5007,VELIVET TRIPHASIC REGIMEN (28) 0.1 MG/0.125 MG/0.15 MG-25 MCG TABLET,desogestreL-ethinyl estradioL 0.1 mg/0.125 mg/0.15 mg-25 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,47
+22438,APRI ORAL,desogestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,47
+14007,LEVORA 0.15/30 (28) ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,48
+13706,DROSPIREN-E.ESTRAD-L.MEFOL 3 MG-0.03 MG-0.451 MG(21)/0.451 MG(7)TABLET,drospiren-e.estrad-l.mefoL 3 mg-0.03 mg-0.451 mg(21)/0.451 mg(7)tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,48
+14435,SEASONALE CONTRACEPTIVE ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,48
+5122,VYFEMLA (28) 0.4 MG-35 MCG TABLET,norethindrone 0.4 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,49
+17750,JUNEL 1/20 (21) ORAL,norethindrone acetate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,49
+15714,JUNEL FE 1/20 (28) ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,50
+21894,MICROGESTIN FE 1.5/30 (28) ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,50
+20113,LOESTRIN 1/20 (21) ORAL,norethindrone acetate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,50
+15411,BLISOVI 24 FE ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,51
+9648,NORTREL 7/7/7 (28) 0.5 MG/0.75 MG/1 MG-35 MCG TABLET,norethindrone-e.estradiol triphasic 0.5 mg/0.75 mg/1 mg-35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,51
+16902,NORETHINDRONE-ETHINYL ESTRADIOL TRIPHASIC 0.5/1/0.5 MG-35 MCG TABLET,norethindrone-ethinyl estradioL triphasic 0.5/1/0.5 mg-35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,52
+18016,TRI-SPRINTEC (28) ORAL,norgestimate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,52
+15880,ORTHO-CYCLEN (28) ORAL,norgestimate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,53
+24806,ORTHO MICRONOR 0.35 MG TABLET,norethindrone (contraceptive) 0.35 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,53
+11100,LARISSIA 0.1 MG-20 MCG TABLET,levonorgestreL-ethinyl estradioL 0.1 mg-20 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,55
+10746,AUROVELA 24 FE 1 MG-20 MCG (24)/75 MG (4) TABLET,norethindrone 1 mg-ethinyl estradioL 20 mcg (24)-iron 75 mg (4) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,56
+14647,YAZ (28) ORAL,drospirenone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,56
+22847,BEYAZ (28) 3 MG-0.02 MG-0.451 MG (24)/0.451 MG (4) TABLET,drospiren-e.estrad-l.mefoL 3 mg-0.02 mg-0.451 mg(24)/0.451 mg(4)tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,57
+11666,ORTHO TRI-CYCLEN LO (28) ORAL,norgestimate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,57
+6544,LARIN 24 FE 1 MG-20 MCG (24)/75 MG (4) TABLET,norethindrone 1 mg-ethinyl estradioL 20 mcg (24)-iron 75 mg (4) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,57
+18248,LOW-OGESTREL (28) ORAL,norgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,57
+19116,TRI-LEGEST FE 1-20 (5)/1-30(7)/1MG-35MCG(9) TABLET,norethindrone-eth. estradiol-iron 1-20 (5)/1-30(7)/1mg-35mcg(9) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,58
+14181,NORA-BE ORAL,norethindrone (contraceptive) oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,59
+12985,TAKE ACTION 1.5 MG TABLET,levonorgestreL 1.5 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Emergency Contraceptives,60
+1254,DASETTA 1/35 (28) 1 MG-35 MCG TABLET,norethindrone 1 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,61
+37652,ORTHO TRI-CYCLEN LO ORAL,norgestimate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,61
+16749,"JOLESSA 0.15 MG-30 MCG (91) TABLETS,3 MONTH DOSE PACK","levonorgestreL 0.15 mg-ethinyl estradiol 30 mcg tablets,3 mos pack(91)",CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,64
+9110,TILIA FE 1-20 (5)/1-30(7)/1MG-35MCG(9) TABLET,norethindrone-eth. estradiol-iron 1-20 (5)/1-30(7)/1mg-35mcg(9) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,65
+11710,TRI-LO-MARZIA 0.18 MG/0.215 MG/0.25 MG-25 MCG TABLET,norgestimate 0.18 mg/0.215 mg/0.25 mg-ethinyl estradioL 25 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,65
+12856,LOESTRIN FE 1/20 (28-DAY) 1 MG-20 MCG (21)/75 MG (7) TABLET,norethindrone 1 mg-ethinyl estradioL 20 mcg (21)-iron 75 mg (7) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,65
+9030,"SETLAKIN 0.15 MG-30 MCG (91) TABLETS,3 MONTH DOSE PACK","levonorgestreL 0.15 mg-ethinyl estradiol 30 mcg tablets,3 mos pack(91)",CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,66
+8295,AMETHYST (28) 90 MCG-20 MCG TABLET,levonorgestreL-ethinyl estradioL 90 mcg-20 mcg (28) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,66
+24073,ZENCHENT (28) 0.4 MG-35 MCG TABLET,norethindrone 0.4 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,67
+24138,MICROGESTIN 1/20 (21) ORAL,norethindrone acetate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,68
+4853,TRI-LO-MILI 0.18/0.215/0.25 MG-25 MCG TABLET,norgestimate 0.18 mg/0.215 mg/0.25 mg-ethinyl estradioL 25 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,69
+8645,HAILEY 1.5 MG-30 MCG TABLET,norethindrone acetate 1.5 mg-ethinyl estradioL 30 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,70
+23897,MICROGESTIN 1.5/30 (21) ORAL,norethindrone acetate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,72
+16446,"CAMRESE 0.15 MG-30 MCG (84)/10 MCG(7) TABLETS,3 MONTH DOSE PACK","L norgest/E estradiol-E estrad 0.15 mg-30 mcg (84)/10 mcg(7) tabs,3mos",CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,73
+19237,ORSYTHIA 0.1 MG-20 MCG TABLET,levonorgestreL-ethinyl estradioL 0.1 mg-20 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,74
+23428,MONONESSA (28) ORAL,norgestimate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,74
+4389,"SIMPESSE 0.15 MG-30 MCG (84)/10 MCG(7) TABLETS,3 MONTH DOSE PACK","L norgest/E estradiol-E estrad 0.15 mg-30 mcg (84)/10 mcg(7) tabs,3mos",CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,74
+30993,GILDESS 1/20 (21) 1 MG-20 MCG TABLET,norethindrone acetate 1 mg-ethinyl estradioL 20 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,74
+31624,ZARAH ORAL,drospirenone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,75
+17040,SPRINTEC (28) ORAL,norgestimate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,78
+6108,ESTRADIOL-DIENOGEST 3 MG/2 MG-2 MG/2 MG-3 MG/1 MG TABLET,estradiol-dienogest 3 mg/2 mg-2 mg/2 mg-3 mg/1 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Quadraphasic,78
+2208,HAILEY 24 FE 1 MG-20 MCG (24)/75 MG (4) TABLET,norethindrone 1 mg-ethinyl estradioL 20 mcg (24)-iron 75 mg (4) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,79
+27466,EMOQUETTE 0.15 MG-0.03 MG TABLET,desogestreL 0.15 mg-ethinyl estradioL 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,82
+23203,MIRCETTE (28) 0.15 MG-0.02 MG (21)/0.01 MG (5) TABLET,desogestreL-e.estradioL 0.15 mg-0.02 mg(21)/e.estrad 0.01 mg(5) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,86
+12165,TRI-LINYAH (28) 0.18 MG(7)/0.215 MG(7)/0.25 MG(7)-35 MCG TABLET,norgestimate-ethinyl estradioL 0.18 mg/0.215mg/0.25mg-35 mcg(28)tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,87
+4366,SHAROBEL 0.35 MG TABLET,norethindrone (contraceptive) 0.35 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,87
+8743,LARIN FE 1.5/30 (28) 1.5 MG-30 MCG (21)/75 MG (7) TABLET,norethindrone 1.5 mg-ethinyl estradioL 30 mcg(21)/iron 75 mg(7) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,88
+1816,FALMINA (28) 0.1 MG-20 MCG TABLET,levonorgestreL-ethinyl estradioL 0.1 mg-20 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,91
+1257,DEBLITANE 0.35 MG TABLET,norethindrone (contraceptive) 0.35 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,93
+27213,MICROGESTIN FE 1/20 (28) ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,93
+27782,NECON 7/7/7 (28) 0.5 MG/0.75 MG/1 MG-35 MCG TABLET,norethindrone-e.estradiol triphasic 0.5 mg/0.75 mg/1 mg-35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,96
+27856,ORTHO-CYCLEN (28) 0.25 MG-35 MCG TABLET,norgestimate 0.25 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,98
+13957,JUNEL 1/20 (21) 1 MG-20 MCG TABLET,norethindrone acetate 1 mg-ethinyl estradioL 20 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,98
+18946,NORETHIN-ETHINYL ESTRADIOL-IRON 0.4 MG-35 MCG(21)/75 MG(7) CHEW TABLET,norethin-ethinyl estradioL-iron 0.4 mg-35 mcg(21)/75 mg(7) chew tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,101
+15700,"INTROVALE 0.15 MG-30 MCG (91) TABLETS,3 MONTH DOSE PACK","levonorgestreL 0.15 mg-ethinyl estradiol 30 mcg tablets,3 mos pack(91)",CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,102
+30453,GILDESS FE 1.5/30 (28) 1.5 MG-30 MCG (21)/75 MG (7) TABLET,norethindrone 1.5 mg-ethinyl estradioL 30 mcg(21)/iron 75 mg(7) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,104
+16910,OCELLA ORAL,drospirenone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,107
+3844,PIRMELLA 1 MG-35 MCG TABLET,norethindrone 1 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,108
+8715,JUNEL 1.5/30 (21) 1.5 MG-30 MCG TABLET,norethindrone acetate 1.5 mg-ethinyl estradioL 30 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,108
+37603,LOESTRIN 24 FE 1 MG-20 MCG (24)/75 MG (4) TABLET,norethindrone 1 mg-ethinyl estradioL 20 mcg (24)-iron 75 mg (4) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,109
+8865,NORETHIN-ETHINYL ESTRADIOL-IRON 0.8 MG-25 MCG(24)/75 MG(4) CHEW TABLET,norethin-ethinyl estradioL-iron 0.8 mg-25 mcg(24)/75 mg(4) chew tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,111
+37336,YASMIN 28 ORAL,drospirenone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,112
+19807,NORGESTREL 0.5 MG-ETHINYL ESTRADIOL 50 MCG TABLET,norgestrel 0.5 mg-ethinyl estradioL 50 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,112
+24498,MINASTRIN 24 FE ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,112
+9647,NORETHINDRONE (CONTRACEPTIVE) ORAL,norethindrone (contraceptive) oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,113
+24810,PREVIFEM 0.25 MG-35 MCG TABLET,norgestimate 0.25 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,113
+37337,YAZ 28 ORAL,drospirenone-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,114
+8471,CYCLAFEM 1/35 (28) 1 MG-35 MCG TABLET,norethindrone 1 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,114
+8857,NIKKI (28) 3 MG-0.02 MG TABLET,drospirenone 3 mg-ethinyl estradioL 0.02 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,115
+31055,NORETHINDRONE-ETHINYL ESTRADIOL 1 MG-50 MCG TABLET,norethindrone-ethinyl estradioL 1 mg-50 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,118
+28056,RECLIPSEN (28) ORAL,desogestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,119
+9140,TRI-LO-ESTARYLLA 0.18 MG/0.215 MG/0.25 MG-25 MCG TABLET,norgestimate 0.18 mg/0.215 mg/0.25 mg-ethinyl estradioL 25 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,119
+6490,KELNOR 1/35 (28) 1 MG-35 MCG TABLET,ethynodiol diacetate-ethinyl estradioL 1 mg-35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,120
+3475,NORTREL 0.5/35 (28) 0.5 MG-35 MCG TABLET,norethindrone 0.5 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,122
+1614,ELINEST 0.3 MG-30 MCG TABLET,norgestrel 0.3 mg-ethinyl estradioL 30 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,124
+20247,SEASONIQUE ORAL,levonorgestrel/ethinyl estradiol and ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,127
+16177,MINASTRIN 24 FE 1 MG-20 MCG (24)/75 MG (4) CHEWABLE TABLET,norethindrone 1 mg-e. estradioL 20 mcg (24)-iron 75 mg (4) chew tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,127
+15840,NORETHINDRONE 1 MG-ETHIN. ESTRADIOL 20 MCG (24)-IRON 75 MG (4) CAPSULE,norethindrone 1 mg-ethin. estradioL 20 mcg (24)-iron 75 mg (4) capsule,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,139
+26692,TRINESSA (28) ORAL,norgestimate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,140
+29398,TRINESSA LO 0.18 MG/0.215 MG/0.25 MG-25 MCG TABLET,norgestimate 0.18 mg/0.215 mg/0.25 mg-ethinyl estradioL 25 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,148
+8320,AUROVELA FE 1.5/30 (28) 1.5 MG-30 MCG (21)/75 MG (7) TABLET,norethindrone 1.5 mg-ethinyl estradioL 30 mcg(21)/iron 75 mg(7) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,148
+27855,ORTHO TRI-CYCLEN (28) 0.18 MG(7)/0.215 MG(7)/0.25 MG(7)-35 MCG TABLET,norgestimate-ethinyl estradioL 0.18 mg/0.215mg/0.25mg-35 mcg(28)tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,151
+2577,JULEBER 0.15 MG-0.03 MG TABLET,desogestreL 0.15 mg-ethinyl estradioL 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,153
+10601,TRIVORA (28) 50-30 (6)/75-40(5)/125-30(10) TABLET,l.norgest-eth.estradiol triphasic 50-30 (6)/75-40(5)/125-30(10) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,154
+13961,KARIVA (28) 0.15 MG-0.02 MG (21)/0.01 MG (5) TABLET,desogestreL-e.estradioL 0.15 mg-0.02 mg(21)/e.estrad 0.01 mg(5) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,155
+8716,JUNEL FE 24 1 MG-20 MCG (24)/75 MG (4) TABLET,norethindrone 1 mg-ethinyl estradioL 20 mcg (24)-iron 75 mg (4) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,156
+31700,GILDESS FE 1/20 (28) 1 MG-20 MCG (21)/75 MG (7) TABLET,norethindrone 1 mg-ethinyl estradioL 20 mcg (21)-iron 75 mg (7) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,159
+216,"AMETHIA 0.15 MG-30 MCG (84)/10 MCG(7) TABLETS,3 MONTH DOSE PACK","L norgest/E estradiol-E estrad 0.15 mg-30 mcg (84)/10 mcg(7) tabs,3mos",CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,163
+3247,MONO-LINYAH 0.25 MG-35 MCG TABLET,norgestimate 0.25 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,165
+13663,DESOGESTREL-ETHINYL ESTRADIOL 0.1 MG/0.125 MG/0.15 MG-25 MCG TABLET,desogestreL-ethinyl estradioL 0.1 mg/0.125 mg/0.15 mg-25 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,170
+8744,LARIN FE 1/20 (28) 1 MG-20 MCG (21)/75 MG (7) TABLET,norethindrone 1 mg-ethinyl estradioL 20 mcg (21)-iron 75 mg (7) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,172
+10026,"ASHLYNA 0.15 MG-30 MCG (84)/10 MCG(7) TABLETS,3 MONTH DOSE PACK","L norgest/E estradiol-E estrad 0.15 mg-30 mcg (84)/10 mcg(7) tabs,3mos",CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,174
+14852,NECON 0.5/35 (28) 0.5 MG-35 MCG TABLET,norethindrone 0.5 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,177
+198,ALTAVERA (28) 0.15 MG-0.03 MG TABLET,levonorgestreL 0.15 mg-ethinyl estradiol 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,178
+14008,LEVORA-28 ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,185
+8481,"DAYSEE 0.15 MG-30 MCG (84)/10 MCG(7) TABLETS,3 MONTH DOSE PACK","L norgest/E estradiol-E estrad 0.15 mg-30 mcg (84)/10 mcg(7) tabs,3mos",CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,199
+23178,DESOGEN 0.15 MG-0.03 MG TABLET,desogestreL 0.15 mg-ethinyl estradioL 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,200
+14811,FEMYNOR 0.25 MG-35 MCG TABLET,norgestimate 0.25 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,208
+2579,JUNEL FE 1.5/30 (28) 1.5 MG-30 MCG (21)/75 MG (7) TABLET,norethindrone 1.5 mg-ethinyl estradioL 30 mcg(21)/iron 75 mg(7) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,209
+12445,LUTERA (28) ORAL,levonorgestrel-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,215
+14027,LOESTRIN 24 FE ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,220
+16122,ZOVIA 1/35E (28) 1 MG-35 MCG TABLET,ethynodiol diacetate-ethinyl estradioL 1 mg-35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,222
+13380,AUROVELA FE 1-20 (28) 1 MG-20 MCG (21)/75 MG (7) TABLET,norethindrone 1 mg-ethinyl estradioL 20 mcg (21)-iron 75 mg (7) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,224
+25945,ORTHO TRI-CYCLEN (28) ORAL,norgestimate-ethinyl estradiol oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,228
+31052,NECON 1/35 (28) 1 MG-35 MCG TABLET,norethindrone 1 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,256
+2222,HEATHER 0.35 MG TABLET,norethindrone (contraceptive) 0.35 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,281
+10376,MICROGESTIN 1.5/30 (21) 1.5 MG-30 MCG TABLET,norethindrone acetate 1.5 mg-ethinyl estradioL 30 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,283
+10412,NORA-BE 0.35 MG TABLET,norethindrone (contraceptive) 0.35 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,284
+5588,BLISOVI 24 FE 1 MG-20 MCG (24)/75 MG (4) TABLET,norethindrone 1 mg-ethinyl estradioL 20 mcg (24)-iron 75 mg (4) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,288
+1561,DROSPIRENONE (CONTRACEPTIVE) 4 MG (28) TABLET,drospirenone (contraceptive) 4 mg (28) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,288
+4415,SLYND 4 MG (28) TABLET,drospirenone (contraceptive) 4 mg (28) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,300
+9206,YASMIN (28) 3 MG-0.03 MG TABLET,drospirenone 3 mg-ethinyl estradioL 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,300
+6120,ETHYNODIOL DIACETATE-ETHINYL ESTRADIOL 1 MG-50 MCG TABLET,ethynodiol diacetate-ethinyl estradioL 1 mg-50 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,300
+6013,DROSPIREN-E.ESTRAD-L.MEFOL 3 MG-0.02 MG-0.451 MG(24)/0.451 MG(4)TABLET,drospiren-e.estrad-l.mefoL 3 mg-0.02 mg-0.451 mg(24)/0.451 mg(4)tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,302
+30418,LEVONORGESTREL 0.75 MG TABLET,levonorgestreL 0.75 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Emergency Contraceptives,304
+5197,YAZ (28) 3 MG-0.02 MG TABLET,drospirenone 3 mg-ethinyl estradioL 0.02 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,305
+3519,OCELLA 3 MG-0.03 MG TABLET,drospirenone 3 mg-ethinyl estradioL 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,311
+8197,NORETHINDRONE 0.4 MG-ETHINYL ESTRADIOL 35 MCG TABLET,norethindrone 0.4 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,325
+319,APRI 0.15 MG-0.03 MG TABLET,desogestreL 0.15 mg-ethinyl estradioL 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,331
+4525,SRONYX 0.1 MG-20 MCG TABLET,levonorgestreL-ethinyl estradioL 0.1 mg-20 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,334
+14497,SYEDA 3 MG-0.03 MG TABLET,drospirenone 3 mg-ethinyl estradioL 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,335
+6568,LEVONORGESTREL-ETHINYL ESTRADIOL 90 MCG-20 MCG (28) TABLET,levonorgestreL-ethinyl estradioL 90 mcg-20 mcg (28) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,335
+9168,VESTURA (28) 3 MG-0.02 MG TABLET,drospirenone 3 mg-ethinyl estradioL 0.02 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,345
+8948,PORTIA 28 0.15 MG-0.03 MG TABLET,levonorgestreL 0.15 mg-ethinyl estradiol 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,352
+3476,NORTREL 1/35 (28) 1 MG-35 MCG TABLET,norethindrone 1 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,353
+426,AVIANE 0.1 MG-20 MCG TABLET,levonorgestreL-ethinyl estradioL 0.1 mg-20 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,364
+1717,ERRIN 0.35 MG TABLET,norethindrone (contraceptive) 0.35 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,369
+2625,"L NORGEST/E ESTRADIOL-E ESTRAD 0.1 MG-20 MCG (84)/10 MCG (7) TABS,3MOS","L norgest/E estradiol-E estrad 0.1 mg-20 mcg (84)/10 mcg (7) tabs,3mos",CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,370
+2718,LESSINA 0.1 MG-20 MCG TABLET,levonorgestreL-ethinyl estradioL 0.1 mg-20 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,391
+27756,JOLIVETTE 0.35 MG TABLET,norethindrone (contraceptive) 0.35 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,394
+5054,VIORELE (28) 0.15 MG-0.02 MG (21)/0.01 MG (5) TABLET,desogestreL-e.estradioL 0.15 mg-0.02 mg(21)/e.estrad 0.01 mg(5) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,400
+26949,"QUASENSE 0.15 MG-30 MCG (91) TABLETS,3 MONTH DOSE PACK","levonorgestreL 0.15 mg-ethinyl estradiol 30 mcg tablets,3 mos pack(91)",CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,404
+11835,NORETHINDRONE-E.ESTRADIOL TRIPHASIC 0.5 MG/0.75 MG/1 MG-35 MCG TABLET,norethindrone-e.estradiol triphasic 0.5 mg/0.75 mg/1 mg-35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,420
+1619,ELLA 30 MG TABLET,ulipristaL 30 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Emergency Contraceptives,421
+18096,AZURETTE (28) 0.15 MG-0.02 MG (21)/0.01 MG (5) TABLET,desogestreL-e.estradioL 0.15 mg-0.02 mg(21)/e.estrad 0.01 mg(5) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,432
+2623,KURVELO (28) 0.15 MG-0.03 MG TABLET,levonorgestreL 0.15 mg-ethinyl estradiol 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,435
+11124,LO LOESTRIN FE ORAL,norethindrone acetate-ethinyl estradiol-iron oral,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,448
+4518,SPRINTEC (28) 0.25 MG-35 MCG TABLET,norgestimate 0.25 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,466
+7567,TRI-LO-SPRINTEC 0.18 MG/0.215 MG/0.25 MG-25 MCG TABLET,norgestimate 0.18 mg/0.215 mg/0.25 mg-ethinyl estradioL 25 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,474
+611,BLISOVI FE 1.5/30 (28) 1.5 MG-30 MCG (21)/75 MG (7) TABLET,norethindrone 1.5 mg-ethinyl estradioL 30 mcg(21)/iron 75 mg(7) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,476
+3001,MARLISSA (28) 0.15 MG-0.03 MG TABLET,levonorgestreL 0.15 mg-ethinyl estradiol 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,492
+3460,NORETHINDRONE 1 MG-E. ESTRADIOL 20 MCG (24)-IRON 75 MG (4) CHEW TABLET,norethindrone 1 mg-e. estradioL 20 mcg (24)-iron 75 mg (4) chew tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,509
+15800,MICROGESTIN 1/20 (21) 1 MG-20 MCG TABLET,norethindrone acetate 1 mg-ethinyl estradioL 20 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,520
+13845,GIANVI (28) 3 MG-0.02 MG TABLET,drospirenone 3 mg-ethinyl estradioL 0.02 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,527
+25545,ORTHO TRI-CYCLEN LO (28) 0.18 MG/0.215 MG/0.25 MG-25 MCG TABLET,norgestimate 0.18 mg/0.215 mg/0.25 mg-ethinyl estradioL 25 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,530
+1173,CRYSELLE (28) 0.3 MG-30 MCG TABLET,norgestrel 0.3 mg-ethinyl estradioL 30 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,537
+4856,TRI-SPRINTEC (28) 0.18 MG(7)/0.215 MG(7)/0.25 MG(7)-35 MCG TABLET,norgestimate-ethinyl estradioL 0.18 mg/0.215mg/0.25mg-35 mcg(28)tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,542
+8732,L.NORGEST-ETH.ESTRADIOL TRIPHASIC 50-30 (6)/75-40(5)/125-30(10) TABLET,l.norgest-eth.estradiol triphasic 50-30 (6)/75-40(5)/125-30(10) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,545
+12083,NORLYDA 0.35 MG TABLET,norethindrone (contraceptive) 0.35 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,568
+2920,LORYNA (28) 3 MG-0.02 MG TABLET,drospirenone 3 mg-ethinyl estradioL 0.02 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,574
+5042,VIENVA 0.1 MG-20 MCG TABLET,levonorgestreL-ethinyl estradioL 0.1 mg-20 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,592
+2937,LOW-OGESTREL (28) 0.3 MG-30 MCG TABLET,norgestrel 0.3 mg-ethinyl estradioL 30 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,631
+2580,JUNEL FE 1/20 (28) 1 MG-20 MCG (21)/75 MG (7) TABLET,norethindrone 1 mg-ethinyl estradioL 20 mcg (21)-iron 75 mg (7) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,708
+9418,ETHYNODIOL DIACETATE-ETHINYL ESTRADIOL 1 MG-35 MCG TABLET,ethynodiol diacetate-ethinyl estradioL 1 mg-35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,737
+3178,MICROGESTIN FE 1.5/30 (28) 1.5 MG-30 MCG (21)/75 MG (7) TABLET,norethindrone 1.5 mg-ethinyl estradioL 30 mcg(21)/iron 75 mg(7) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,775
+29780,ZARAH 3 MG-0.03 MG TABLET,drospirenone 3 mg-ethinyl estradioL 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,828
+2780,LEVORA-28 0.15 MG-0.03 MG TABLET,levonorgestreL 0.15 mg-ethinyl estradiol 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,883
+1741,ESTARYLLA 0.25 MG-35 MCG TABLET,norgestimate 0.25 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,899
+2531,ISIBLOOM 0.15 MG-0.03 MG TABLET,desogestreL 0.15 mg-ethinyl estradioL 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,924
+27352,TRINESSA (28) 0.18 MG(7)/0.215 MG(7)/0.25 MG(7)-35 MCG TABLET,norgestimate-ethinyl estradioL 0.18 mg/0.215mg/0.25mg-35 mcg(28)tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,928
+612,BLISOVI FE 1/20 (28) 1 MG-20 MCG (21)/75 MG (7) TABLET,norethindrone 1 mg-ethinyl estradioL 20 mcg (21)-iron 75 mg (7) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,942
+6926,NORETHINDRONE 0.5 MG-ETHINYL ESTRADIOL 35 MCG TABLET,norethindrone 0.5 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,956
+19563,MONONESSA (28) 0.25 MG-35 MCG TABLET,norgestimate 0.25 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1014
+4150,RECLIPSEN (28) 0.15 MG-0.03 MG TABLET,desogestreL 0.15 mg-ethinyl estradioL 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1019
+14093,MICROGESTIN FE 1/20 (28) 1 MG-20 MCG (21)/75 MG (7) TABLET,norethindrone 1 mg-ethinyl estradioL 20 mcg (21)-iron 75 mg (7) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1019
+3468,NORETHINDRONE ACETATE 1.5 MG-ETHINYL ESTRADIOL 30 MCG TABLET,norethindrone acetate 1.5 mg-ethinyl estradioL 30 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1072
+1657,ENSKYCE 0.15 MG-0.03 MG TABLET,desogestreL 0.15 mg-ethinyl estradioL 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1181
+2955,LUTERA (28) 0.1 MG-20 MCG TABLET,levonorgestreL-ethinyl estradioL 0.1 mg-20 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1209
+4929,ULIPRISTAL 30 MG TABLET,ulipristaL 30 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Emergency Contraceptives,1406
+3463,NORETHINDRONE 1 MG-ETHINYL ESTRADIOL 20 MCG (24)-IRON 75 MG (4) TABLET,norethindrone 1 mg-ethinyl estradioL 20 mcg (24)-iron 75 mg (4) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1542
+3464,NORETHINDRONE 1 MG-ETHINYL ESTRADIOL 35 MCG TABLET,norethindrone 1 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,1693
+2894,LO LOESTRIN FE 1 MG-10 MCG (24)/10 MCG (2) TABLET,norethindrone 1 mg-ethinyl estradioL 10 mcg (24)-iron 10 mcg(2) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,1699
+3461,NORETHINDRONE 1 MG-ETHINYL ESTRADIOL 10 MCG (24)-IRON 10 MCG(2) TABLET,norethindrone 1 mg-ethinyl estradioL 10 mcg (24)-iron 10 mcg(2) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,1797
+2626,"L NORGEST/E ESTRADIOL-E ESTRAD 0.15 MG-30 MCG (84)/10 MCG(7) TABS,3MOS","L norgest/E estradiol-E estrad 0.15 mg-30 mcg (84)/10 mcg(7) tabs,3mos",CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,1969
+3470,NORETHINDRONE-ETH. ESTRADIOL-IRON 1-20 (5)/1-30(7)/1MG-35MCG(9) TABLET,norethindrone-eth. estradiol-iron 1-20 (5)/1-30(7)/1mg-35mcg(9) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,1978
+5908,DESOGESTREL-E.ESTRADIOL 0.15 MG-0.02 MG(21)/E.ESTRAD 0.01 MG(5) TABLET,desogestreL-e.estradioL 0.15 mg-0.02 mg(21)/e.estrad 0.01 mg(5) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Biphasic,2303
+3474,NORGESTREL 0.3 MG-ETHINYL ESTRADIOL 30 MCG TABLET,norgestrel 0.3 mg-ethinyl estradioL 30 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,3004
+2773,"LEVONORGESTREL 0.15 MG-ETHINYL ESTRADIOL 30 MCG TABLETS,3 MOS PACK(91)","levonorgestreL 0.15 mg-ethinyl estradiol 30 mcg tablets,3 mos pack(91)",CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,3012
+2774,LEVONORGESTREL 1.5 MG TABLET,levonorgestreL 1.5 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Emergency Contraceptives,3576
+3465,NORETHINDRONE 1.5 MG-ETHINYL ESTRADIOL 30 MCG(21)/IRON 75 MG(7) TABLET,norethindrone 1.5 mg-ethinyl estradioL 30 mcg(21)/iron 75 mg(7) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,3814
+3471,NORGESTIMATE 0.18 MG/0.215 MG/0.25 MG-ETHINYL ESTRADIOL 25 MCG TABLET,norgestimate 0.18 mg/0.215 mg/0.25 mg-ethinyl estradioL 25 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,4647
+3473,NORGESTIMATE-ETHINYL ESTRADIOL 0.18 MG/0.215MG/0.25MG-35 MCG(28)TABLET,norgestimate-ethinyl estradioL 0.18 mg/0.215mg/0.25mg-35 mcg(28)tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Triphasic,5530
+3466,NORETHINDRONE ACETATE 1 MG-ETHINYL ESTRADIOL 20 MCG TABLET,norethindrone acetate 1 mg-ethinyl estradioL 20 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,5624
+1563,DROSPIRENONE 3 MG-ETHINYL ESTRADIOL 0.03 MG TABLET,drospirenone 3 mg-ethinyl estradioL 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,6513
+1562,DROSPIRENONE 3 MG-ETHINYL ESTRADIOL 0.02 MG TABLET,drospirenone 3 mg-ethinyl estradioL 0.02 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,7143
+3472,NORGESTIMATE 0.25 MG-ETHINYL ESTRADIOL 35 MCG TABLET,norgestimate 0.25 mg-ethinyl estradioL 35 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,8342
+3462,NORETHINDRONE 1 MG-ETHINYL ESTRADIOL 20 MCG (21)-IRON 75 MG (7) TABLET,norethindrone 1 mg-ethinyl estradioL 20 mcg (21)-iron 75 mg (7) tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,8434
+2772,LEVONORGESTREL 0.15 MG-ETHINYL ESTRADIOL 0.03 MG TABLET,levonorgestreL 0.15 mg-ethinyl estradiol 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,8472
+2779,LEVONORGESTREL-ETHINYL ESTRADIOL 0.1 MG-20 MCG TABLET,levonorgestreL-ethinyl estradioL 0.1 mg-20 mcg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,9913
+3459,NORETHINDRONE (CONTRACEPTIVE) 0.35 MG TABLET,norethindrone (contraceptive) 0.35 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Progestin,11424
+1289,DESOGESTREL 0.15 MG-ETHINYL ESTRADIOL 0.03 MG TABLET,desogestreL 0.15 mg-ethinyl estradioL 0.03 mg tablet,CONTRACEPTIVES,"CONTRACEPTIVES,ORAL",Contraceptive Oral - Monophasic,12131
+20744,TWIRLA TD,levonorgestrel-ethinyl estradiol transdermal,CONTRACEPTIVES,"CONTRACEPTIVES,TRANSDERMAL",Contraceptive Transdermal Combinations - Estrogen and Progestin Comb.,2
+22797,XULANE TD,norelgestromin-ethinyl estradiol transdermal,CONTRACEPTIVES,"CONTRACEPTIVES,TRANSDERMAL",Contraceptive Transdermal Combinations - Estrogen and Progestin Comb.,4
+2775,LEVONORGESTREL 120 MCG-E.ESTRADIOL 30 MCG/24 HR WEEKLY TRANSDERM PATCH,levonorgestreL 120 mcg-e.estradiol 30 mcg/24 hr weekly transderm patch,CONTRACEPTIVES,"CONTRACEPTIVES,TRANSDERMAL",Contraceptive Transdermal Combinations - Estrogen and Progestin Comb.,20
+4917,TWIRLA 120 MCG-30 MCG/24 HR TRANSDERMAL PATCH,levonorgestreL 120 mcg-e.estradiol 30 mcg/24 hr weekly transderm patch,CONTRACEPTIVES,"CONTRACEPTIVES,TRANSDERMAL",Contraceptive Transdermal Combinations - Estrogen and Progestin Comb.,22
+33767,ORTHO EVRA TD,norelgestromin-ethinyl estradiol transdermal,CONTRACEPTIVES,"CONTRACEPTIVES,TRANSDERMAL",Contraceptive Transdermal Combinations - Estrogen and Progestin Comb.,22
+28473,ORTHO EVRA 150 MCG-35 MCG/24 HR TRANSDERMAL PATCH,norelgestromin 150 mcg-e.estradioL 35 mcg/24 hr weekly transderm patch,CONTRACEPTIVES,"CONTRACEPTIVES,TRANSDERMAL",Contraceptive Transdermal Combinations - Estrogen and Progestin Comb.,126
+7738,ZAFEMY 150 MCG-35 MCG/24 HR TRANSDERMAL PATCH,norelgestromin 150 mcg-e.estradioL 35 mcg/24 hr weekly transderm patch,CONTRACEPTIVES,"CONTRACEPTIVES,TRANSDERMAL",Contraceptive Transdermal Combinations - Estrogen and Progestin Comb.,129
+5193,XULANE 150 MCG-35 MCG/24 HR TRANSDERMAL PATCH,norelgestromin 150 mcg-e.estradioL 35 mcg/24 hr weekly transderm patch,CONTRACEPTIVES,"CONTRACEPTIVES,TRANSDERMAL",Contraceptive Transdermal Combinations - Estrogen and Progestin Comb.,819
+3456,NORELGESTROMIN 150 MCG-E.ESTRADIOL 35 MCG/24 HR WEEKLY TRANSDERM PATCH,norelgestromin 150 mcg-e.estradioL 35 mcg/24 hr weekly transderm patch,CONTRACEPTIVES,"CONTRACEPTIVES,TRANSDERMAL",Contraceptive Transdermal Combinations - Estrogen and Progestin Comb.,3175
+35399,PROGESTERONE INTRAUTERINE,progesterone intrauterine,CONTRACEPTIVES,INTRA-UTERINE DEVICES (IUDS),Contraceptive Intrauterine - Progesterone IUD,2
+26132,COPPER INTRAUTERINE,copper intrauterine,CONTRACEPTIVES,INTRA-UTERINE DEVICES (IUDS),Contraceptive Intrauterine - Copper IUD,6
+25840,LEVONORGESTREL INTRAUTERINE,levonorgestrel intrauterine,CONTRACEPTIVES,INTRA-UTERINE DEVICES (IUDS),Contraceptive Intrauterine - Progesterone IUD,7
+6601,LILETTA INTRAUTERINE,levonorgestrel intrauterine,CONTRACEPTIVES,INTRA-UTERINE DEVICES (IUDS),Contraceptive Intrauterine - Progesterone IUD,22
+6600,LILETTA 20.4 MCG/24 HRS (8 YRS) 52 MG INTRAUTERINE DEVICE,levonorgestreL 20.4 mcg/24 hrs (8 yrs) 52 mg intrauterine device,CONTRACEPTIVES,INTRA-UTERINE DEVICES (IUDS),Contraceptive Intrauterine - Progesterone IUD,46
+9554,LEVONORGESTREL 20.4 MCG/24 HRS (8 YRS) 52 MG INTRAUTERINE DEVICE,levonorgestreL 20.4 mcg/24 hrs (8 yrs) 52 mg intrauterine device,CONTRACEPTIVES,INTRA-UTERINE DEVICES (IUDS),Contraceptive Intrauterine - Progesterone IUD,85
+7369,SKYLA 14 MCG/24 HRS (3 YRS) 13.5 MG INTRAUTERINE DEVICE,levonorgestreL 14 mcg/24 hrs (3 yrs) 13.5 mg intrauterine device,CONTRACEPTIVES,INTRA-UTERINE DEVICES (IUDS),Contraceptive Intrauterine - Progesterone IUD,87
+10317,KYLEENA INTRAUTERINE,levonorgestrel intrauterine,CONTRACEPTIVES,INTRA-UTERINE DEVICES (IUDS),Contraceptive Intrauterine - Progesterone IUD,116
+9754,SKYLA INTRAUTERINE,levonorgestrel intrauterine,CONTRACEPTIVES,INTRA-UTERINE DEVICES (IUDS),Contraceptive Intrauterine - Progesterone IUD,143
+2624,KYLEENA 17.5 MCG/24 HRS (5YRS) 19.5MG INTRAUTERINE DEVICE,levonorgestreL 17.5 mcg/24 hrs (5yrs) 19.5mg intrauterine device,CONTRACEPTIVES,INTRA-UTERINE DEVICES (IUDS),Contraceptive Intrauterine - Progesterone IUD,171
+7049,PARAGARD T 380A INTRAUTERINE,copper intrauterine,CONTRACEPTIVES,INTRA-UTERINE DEVICES (IUDS),Contraceptive Intrauterine - Copper IUD,267
+3709,PARAGARD T 380A 380 SQUARE MM INTRAUTERINE DEVICE,copper 380 square mm intrauterine device,CONTRACEPTIVES,INTRA-UTERINE DEVICES (IUDS),Contraceptive Intrauterine - Copper IUD,309
+9516,INTRAUTERINE DEVICE (IUD) INTRAUTERINE,intrauterine device (IUD),CONTRACEPTIVES,INTRA-UTERINE DEVICES (IUDS),Medical Supplies and DME - IUDs,472
+6787,MIRENA INTRAUTERINE,levonorgestrel intrauterine,CONTRACEPTIVES,INTRA-UTERINE DEVICES (IUDS),Contraceptive Intrauterine - Progesterone IUD,503
+37002,INTRAUTERINE DEVICE (IUD),intrauterine device (IUD),CONTRACEPTIVES,INTRA-UTERINE DEVICES (IUDS),Medical Supplies and DME - IUDs,504
+3224,MIRENA 21 MCG/24 HOURS (8 YRS) 52 MG INTRAUTERINE DEVICE,levonorgestreL 21 mcg/24 hours (8 yrs) 52 mg intrauterine device,CONTRACEPTIVES,INTRA-UTERINE DEVICES (IUDS),Contraceptive Intrauterine - Progesterone IUD,698
+2777,LEVONORGESTREL 17.5 MCG/24 HRS (5YRS) 19.5MG INTRAUTERINE DEVICE,levonorgestreL 17.5 mcg/24 hrs (5yrs) 19.5mg intrauterine device,CONTRACEPTIVES,INTRA-UTERINE DEVICES (IUDS),Contraceptive Intrauterine - Progesterone IUD,916
+2776,LEVONORGESTREL 14 MCG/24 HRS (3 YRS) 13.5 MG INTRAUTERINE DEVICE,levonorgestreL 14 mcg/24 hrs (3 yrs) 13.5 mg intrauterine device,CONTRACEPTIVES,INTRA-UTERINE DEVICES (IUDS),Contraceptive Intrauterine - Progesterone IUD,2116
+1135,COPPER 380 SQUARE MM INTRAUTERINE DEVICE,copper 380 square mm intrauterine device,CONTRACEPTIVES,INTRA-UTERINE DEVICES (IUDS),Contraceptive Intrauterine - Copper IUD,3880
+2778,LEVONORGESTREL 21 MCG/24 HOURS (8 YRS) 52 MG INTRAUTERINE DEVICE,levonorgestreL 21 mcg/24 hours (8 yrs) 52 mg intrauterine device,CONTRACEPTIVES,INTRA-UTERINE DEVICES (IUDS),Contraceptive Intrauterine - Progesterone IUD,22131
+10898,DEPO-PROVERA IM,medroxyprogesterone intramuscular,CONTRACEPTIVES,PROGESTATIONAL AGENTS,Antineoplastic - Progestins,318
